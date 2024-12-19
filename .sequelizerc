@@ -1,0 +1,8 @@
+
+module.exports = {
+    config: 'src/config/config.json',       
+    'models-path': 'src/**/*.entity.ts',   
+    'migrations-path': 'src/database/migrations',
+    'seeders-path': 'src/database/seeders'
+  };
+  
